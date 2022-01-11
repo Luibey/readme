@@ -8,10 +8,6 @@
 My Server
 https://discord.gg/moldova
 
-<div align="center">
-    <a href="https://discord.com/users/616213072431939584" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/616213072431939584"></a>
-</div>
-
 ## Langauges I Know:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -23,3 +19,7 @@ https://discord.gg/moldova
    <img src="https://github-readme-stats.vercel.app/api?username=Luibey&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
 <img src="https://github-profile-trophy.vercel.app/?username=Luibey&theme=radical" />
 </p>
+
+<div align="center">
+    <a href="https://discord.com/users/616213072431939584" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/616213072431939584"></a>
+</div
