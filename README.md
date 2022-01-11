@@ -20,6 +20,4 @@ https://discord.gg/moldova
 <img src="https://github-profile-trophy.vercel.app/?username=Luibey&theme=radical" />
 </p>
 
-<div align="center">
-    <a href="https://discord.com/users/616213072431939584" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/616213072431939584"></a>
-</div
+
