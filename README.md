@@ -12,8 +12,6 @@ https://discord.gg/moldova
     <a href="https://discord.com/users/616213072431939584" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/616213072431939584"></a>
 </div>
 
-
-
 ## Langauges I Know:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
