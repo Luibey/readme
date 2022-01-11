@@ -1,4 +1,5 @@
 # Hello, I'm Lui
+![version :17.10.2021](https://img.shields.io/badge/version-17.10.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=Luibey&color=red)&nbsp;
 [![GitHub Luibey](https://img.shields.io/github/followers/Luibey?label=follow&style=social)](https://github.com/Luibey)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
