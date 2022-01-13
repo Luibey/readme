@@ -19,6 +19,3 @@ https://discord.gg/1456
    <img src="https://github-readme-stats.vercel.app/api?username=Luibey&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
 <img src="https://github-profile-trophy.vercel.app/?username=Luibey&theme=radical" />
 </p>
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/616213072431939584
-                            )](https://discord.com/users/616213072431939584)
