@@ -20,4 +20,5 @@ https://discord.gg/1456
 <img src="https://github-profile-trophy.vercel.app/?username=Luibey&theme=radical" />
 </p>
 
-
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/616213072431939584
+                            )](https://discord.com/users/616213072431939584)
