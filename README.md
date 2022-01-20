@@ -6,7 +6,7 @@
 <a href="https://instagram.com/jaylenelchavo"><img src="https://img.shields.io/badge/@luibeyxd-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 My Server
-https://discord.gg/1456
+https://discord.gg/zeus
 
 ## Langauges I Know:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
